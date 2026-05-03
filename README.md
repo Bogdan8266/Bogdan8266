@@ -83,7 +83,8 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bogdannn.chik@gmail.com)
 
 <!-- ЛІЧИЛЬНИК ВІДВІДУВАЧІВ (РЕТРО СТИЛЬ) -->
-![Visitor Count](https://profile-counter.glitch.me/Bogdan8266/count.svg)
+<!--![Visitor Count](https://profile-counter.glitch.me/Bogdan8266/count.svg) -->
+![Hits](https://komarev.com/ghpvc/?username=Bogdan8266&color=blue)
 
 **Powering down systems...**
 
