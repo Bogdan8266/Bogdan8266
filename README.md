@@ -84,8 +84,10 @@
 
 <!-- ЛІЧИЛЬНИК ВІДВІДУВАЧІВ (РЕТРО СТИЛЬ) -->
 <!--![Visitor Count](https://profile-counter.glitch.me/Bogdan8266/count.svg) -->
-![Hits](https://komarev.com/ghpvc/?username=Bogdan8266&color=blue)
 
 **Powering down systems...**
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Bogdan8266&color=blue" alt="Views">
+</p>
 
 </div>
